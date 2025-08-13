@@ -42,3 +42,4 @@ message EtwConfig {
   // Provides events relating to the memory manager.
   repeated string memory_provider_events = 3;
 }
+}

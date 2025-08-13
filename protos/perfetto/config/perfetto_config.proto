@@ -1018,6 +1018,8 @@ message EtwConfig {
   // Provides events relating to the memory manager.
   repeated string memory_provider_events = 3;
 }
+}
+
 // End of protos/perfetto/config/etw/etw_config.proto
 
 // Begin of protos/perfetto/config/ftrace/frozen_ftrace_config.proto
